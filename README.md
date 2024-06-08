@@ -8,7 +8,7 @@ Contributions are welcome! If you have any improvements or additional examples t
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/). See the [LICENSE](https://github.com/Chakrastra/SNA_R?tab=MIT-1-ov-file) file for more details.
+This project is licensed under the [MIT License](https://choosealicense.com/). See the [LICENSE](https://github.com/Chakrastra/Social-media-analysis-using-R?tab=MIT-1-ov-file) file for more details.
 
 ## Acknowledgements
 
